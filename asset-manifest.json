@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HelloVK/static/css/main.36b54714.chunk.css",
+    "main.js": "/HelloVK/static/js/main.da1c32cc.chunk.js",
+    "main.js.map": "/HelloVK/static/js/main.da1c32cc.chunk.js.map",
+    "runtime-main.js": "/HelloVK/static/js/runtime-main.d09dd231.js",
+    "runtime-main.js.map": "/HelloVK/static/js/runtime-main.d09dd231.js.map",
+    "static/js/2.978b4863.chunk.js": "/HelloVK/static/js/2.978b4863.chunk.js",
+    "static/js/2.978b4863.chunk.js.map": "/HelloVK/static/js/2.978b4863.chunk.js.map",
+    "index.html": "/HelloVK/index.html",
+    "precache-manifest.db1ce4203f62ec7b7e9b465a245b6c5c.js": "/HelloVK/precache-manifest.db1ce4203f62ec7b7e9b465a245b6c5c.js",
+    "service-worker.js": "/HelloVK/service-worker.js",
+    "static/css/main.36b54714.chunk.css.map": "/HelloVK/static/css/main.36b54714.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d09dd231.js",
+    "static/js/2.978b4863.chunk.js",
+    "static/css/main.36b54714.chunk.css",
+    "static/js/main.da1c32cc.chunk.js"
+  ]
+}
